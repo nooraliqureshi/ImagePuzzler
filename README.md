@@ -24,13 +24,16 @@ A demo Windows Forms application is included to demonstrate the functionality of
 ## Screenshots
 
 **Main Window**
-![App Screenshot](https://via.placeholder.com/468x300?text=App+Screenshot+Here)
+![LoadingImage](https://github.com/nooraliqureshi/ImagePuzzler/assets/169689703/c5724080-2434-47bc-8258-e892b934697d)
+![preview](https://github.com/nooraliqureshi/ImagePuzzler/assets/169689703/908ef7a8-0a23-4926-b52e-daddba69a061)
 
 **Puzzle Creation**
-![App Screenshot](https://via.placeholder.com/468x300?text=App+Screenshot+Here)
+![PuzzledImage](https://github.com/nooraliqureshi/ImagePuzzler/assets/169689703/1ac72662-99e4-4f99-94be-d7eef36d8aa8)
+![PuzzledImagePreview](https://github.com/nooraliqureshi/ImagePuzzler/assets/169689703/359e5de0-bc63-4eef-95dd-0cf8debefc72)
 
 **Puzzle Resolving**
-![App Screenshot](https://via.placeholder.com/468x300?text=App+Screenshot+Here)
+![WithCorrectPattern](https://github.com/nooraliqureshi/ImagePuzzler/assets/169689703/b4982c1a-8f2e-4b29-b264-dcba0d7ae3a7)
+![NotMatchingPattern](https://github.com/nooraliqureshi/ImagePuzzler/assets/169689703/2cf537be-ad9b-4e26-91b5-fb8720462fc9)
 
 ## Tech
 
@@ -44,7 +47,7 @@ A demo Windows Forms application is included to demonstrate the functionality of
 Clone the repository:
 
 ```bash
-  git clone https://github.com/yourusername/image-puzzler.git
+  git clone https://github.com/nooraliqureshi/ImagePuzzler.git
 ```
     
 ## Usage/Examples
@@ -70,7 +73,7 @@ Bitmap resolvedImage = ImagePuzzler.ResolvePuzzle(puzzleImage, pattern, pattern.
 Clone the project
 
 ```bash
-  git clone https://link-to-project
+  git clone https://github.com/nooraliqureshi/ImagePuzzler
 ```
 
 Open the ImagePuzzler project in Visual Studio and run the application.
@@ -107,7 +110,7 @@ Contributions are welcome! Please open an issue or submit a pull request.
 
 ## Authors
 
-- [@octokatherine](https://www.github.com/octokatherine)
+- [@nooraliqureshi](https://github.com/nooraliqureshi)
 
 
 ## License
