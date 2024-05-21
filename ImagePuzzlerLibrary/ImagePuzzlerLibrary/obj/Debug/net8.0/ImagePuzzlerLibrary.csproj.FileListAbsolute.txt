@@ -1,0 +1,13 @@
+C:\Users\noora\source\newRepos\ImagePuzzler\ImagePuzzlerLibrary\ImagePuzzlerLibrary\bin\Debug\net8.0\ImagePuzzlerLibrary.deps.json
+C:\Users\noora\source\newRepos\ImagePuzzler\ImagePuzzlerLibrary\ImagePuzzlerLibrary\bin\Debug\net8.0\ImagePuzzlerLibrary.dll
+C:\Users\noora\source\newRepos\ImagePuzzler\ImagePuzzlerLibrary\ImagePuzzlerLibrary\bin\Debug\net8.0\ImagePuzzlerLibrary.pdb
+C:\Users\noora\source\newRepos\ImagePuzzler\ImagePuzzlerLibrary\ImagePuzzlerLibrary\obj\Debug\net8.0\ImagePuzzlerLibrary.csproj.AssemblyReference.cache
+C:\Users\noora\source\newRepos\ImagePuzzler\ImagePuzzlerLibrary\ImagePuzzlerLibrary\obj\Debug\net8.0\ImagePuzzlerLibrary.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\noora\source\newRepos\ImagePuzzler\ImagePuzzlerLibrary\ImagePuzzlerLibrary\obj\Debug\net8.0\ImagePuzzlerLibrary.AssemblyInfoInputs.cache
+C:\Users\noora\source\newRepos\ImagePuzzler\ImagePuzzlerLibrary\ImagePuzzlerLibrary\obj\Debug\net8.0\ImagePuzzlerLibrary.AssemblyInfo.cs
+C:\Users\noora\source\newRepos\ImagePuzzler\ImagePuzzlerLibrary\ImagePuzzlerLibrary\obj\Debug\net8.0\ImagePuzzlerLibrary.csproj.CoreCompileInputs.cache
+C:\Users\noora\source\newRepos\ImagePuzzler\ImagePuzzlerLibrary\ImagePuzzlerLibrary\obj\Debug\net8.0\ImagePuzzlerLibrary.dll
+C:\Users\noora\source\newRepos\ImagePuzzler\ImagePuzzlerLibrary\ImagePuzzlerLibrary\obj\Debug\net8.0\refint\ImagePuzzlerLibrary.dll
+C:\Users\noora\source\newRepos\ImagePuzzler\ImagePuzzlerLibrary\ImagePuzzlerLibrary\obj\Debug\net8.0\ImagePuzzlerLibrary.pdb
+C:\Users\noora\source\newRepos\ImagePuzzler\ImagePuzzlerLibrary\ImagePuzzlerLibrary\obj\Debug\net8.0\ref\ImagePuzzlerLibrary.dll
+C:\Users\noora\source\newRepos\ImagePuzzler\ImagePuzzlerLibrary\ImagePuzzlerLibrary\obj\Debug\net8.0\ImagePuzzlerLibrary.sourcelink.json
