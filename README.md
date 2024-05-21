@@ -4,7 +4,7 @@
 Image Puzzler is a C# application that allows users to create and solve image puzzles. This project consists of two main parts: a C# library that handles the core functionality and a Windows Forms application that provides a user interface for interacting with the library.
 
 **C# Library: ImagePuzzlerLibrary**
-The ` **ImagePuzzlerLibrary** ` is a C# library designed to create and resolve image puzzles. It provides methods to slice images into pieces and arrange them according to a specified pattern.
+The **` ImagePuzzlerLibrary `** is a C# library designed to create and resolve image puzzles. It provides methods to slice images into pieces and arrange them according to a specified pattern.
 
 
 ## Features
@@ -24,13 +24,32 @@ A demo Windows Forms application is included to demonstrate the functionality of
 ## Screenshots
 
 **Main Window**
-![App Screenshot](https://via.placeholder.com/468x300?text=App+Screenshot+Here)
+
+![LoadingImage](https://github.com/nooraliqureshi/ImagePuzzler/assets/169689703/c5724080-2434-47bc-8258-e892b934697d)
+
+` Preview Window Click on the Imagebox to preview the Image `
+
+![preview](https://github.com/nooraliqureshi/ImagePuzzler/assets/169689703/908ef7a8-0a23-4926-b52e-daddba69a061)
 
 **Puzzle Creation**
-![App Screenshot](https://via.placeholder.com/468x300?text=App+Screenshot+Here)
+
+` To Create the puzzle write the pattern in the pattern Box `
+
+![PuzzledImage](https://github.com/nooraliqureshi/ImagePuzzler/assets/169689703/1ac72662-99e4-4f99-94be-d7eef36d8aa8)
+
+` PuzzledImage Preview Window (Click on the Imagebox to preview the Image) `
+
+![PuzzledImagePreview](https://github.com/nooraliqureshi/ImagePuzzler/assets/169689703/359e5de0-bc63-4eef-95dd-0cf8debefc72)
 
 **Puzzle Resolving**
-![App Screenshot](https://via.placeholder.com/468x300?text=App+Screenshot+Here)
+
+` To Resolve the Image u need the right correct pattern that u used to create the puzzle `
+
+![WithCorrectPattern](https://github.com/nooraliqureshi/ImagePuzzler/assets/169689703/b4982c1a-8f2e-4b29-b264-dcba0d7ae3a7)
+
+`Wrong pattern`
+
+![NotMatchingPattern](https://github.com/nooraliqureshi/ImagePuzzler/assets/169689703/2cf537be-ad9b-4e26-91b5-fb8720462fc9)
 
 ## Tech
 
@@ -44,7 +63,7 @@ A demo Windows Forms application is included to demonstrate the functionality of
 Clone the repository:
 
 ```bash
-  git clone https://github.com/yourusername/image-puzzler.git
+  git clone https://github.com/nooraliqureshi/ImagePuzzler.git
 ```
     
 ## Usage/Examples
@@ -70,7 +89,7 @@ Bitmap resolvedImage = ImagePuzzler.ResolvePuzzle(puzzleImage, pattern, pattern.
 Clone the project
 
 ```bash
-  git clone https://link-to-project
+  git clone https://github.com/nooraliqureshi/ImagePuzzler
 ```
 
 Open the ImagePuzzler project in Visual Studio and run the application.
@@ -90,6 +109,9 @@ Detailed documentation for the library methods can be found here.
 
 This project does not require any environment variables.
 
+## Releases
+
+You can find the latest releases [here](https://github.com/nooraliqureshi/ImagePuzzler/releases). Download the version that suits your needs, including source code, executable files, and release notes.
 
 ## Roadmap
 
@@ -107,7 +129,7 @@ Contributions are welcome! Please open an issue or submit a pull request.
 
 ## Authors
 
-- [@octokatherine](https://www.github.com/octokatherine)
+- [Noor Ali Qureshi](https://github.com/nooraliqureshi) - Initial work
 
 
 ## License
