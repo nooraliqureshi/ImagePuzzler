@@ -109,6 +109,9 @@ Detailed documentation for the library methods can be found here.
 
 This project does not require any environment variables.
 
+## Releases
+
+You can find the latest releases [here](https://github.com/nooraliqureshi/ImagePuzzler/releases). Download the version that suits your needs, including source code, executable files, and release notes.
 
 ## Roadmap
 
@@ -126,7 +129,7 @@ Contributions are welcome! Please open an issue or submit a pull request.
 
 ## Authors
 
-- [@nooraliqureshi](https://github.com/nooraliqureshi)
+- [Noor Ali Qureshi](https://github.com/nooraliqureshi) - Initial work
 
 
 ## License
