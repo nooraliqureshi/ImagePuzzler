@@ -1,0 +1,71 @@
+C:\Users\noora\source\newRepos\ImagePuzzler\ImagePuzzler\obj\Debug\net8.0-windows\ImagePuzzler.csproj.GenerateResource.cache
+C:\Users\noora\source\newRepos\ImagePuzzler\ImagePuzzler\obj\Debug\net8.0-windows\ImagePuzzler.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\noora\source\newRepos\ImagePuzzler\ImagePuzzler\obj\Debug\net8.0-windows\ImagePuzzler.AssemblyInfoInputs.cache
+C:\Users\noora\source\newRepos\ImagePuzzler\ImagePuzzler\obj\Debug\net8.0-windows\ImagePuzzler.AssemblyInfo.cs
+C:\Users\noora\source\newRepos\ImagePuzzler\ImagePuzzler\obj\Debug\net8.0-windows\ImagePuzzler.csproj.CoreCompileInputs.cache
+C:\Users\noora\source\newRepos\ImagePuzzler\ImagePuzzler\bin\Debug\net8.0-windows\ImagePuzzler.exe
+C:\Users\noora\source\newRepos\ImagePuzzler\ImagePuzzler\bin\Debug\net8.0-windows\ImagePuzzler.deps.json
+C:\Users\noora\source\newRepos\ImagePuzzler\ImagePuzzler\bin\Debug\net8.0-windows\ImagePuzzler.runtimeconfig.json
+C:\Users\noora\source\newRepos\ImagePuzzler\ImagePuzzler\bin\Debug\net8.0-windows\ImagePuzzler.dll
+C:\Users\noora\source\newRepos\ImagePuzzler\ImagePuzzler\bin\Debug\net8.0-windows\ImagePuzzler.pdb
+C:\Users\noora\source\newRepos\ImagePuzzler\ImagePuzzler\bin\Debug\net8.0-windows\ImagePuzzlerLibrary.dll
+C:\Users\noora\source\newRepos\ImagePuzzler\ImagePuzzler\bin\Debug\net8.0-windows\ImagePuzzlerLibrary.pdb
+C:\Users\noora\source\newRepos\ImagePuzzler\ImagePuzzler\obj\Debug\net8.0-windows\ImagePuzzler.csproj.AssemblyReference.cache
+C:\Users\noora\source\newRepos\ImagePuzzler\ImagePuzzler\obj\Debug\net8.0-windows\ImagePuz.F21D38A1.Up2Date
+C:\Users\noora\source\newRepos\ImagePuzzler\ImagePuzzler\obj\Debug\net8.0-windows\ImagePuzzler.dll
+C:\Users\noora\source\newRepos\ImagePuzzler\ImagePuzzler\obj\Debug\net8.0-windows\refint\ImagePuzzler.dll
+C:\Users\noora\source\newRepos\ImagePuzzler\ImagePuzzler\obj\Debug\net8.0-windows\ImagePuzzler.pdb
+C:\Users\noora\source\newRepos\ImagePuzzler\ImagePuzzler\obj\Debug\net8.0-windows\ImagePuzzler.genruntimeconfig.cache
+C:\Users\noora\source\newRepos\ImagePuzzler\ImagePuzzler\obj\Debug\net8.0-windows\ref\ImagePuzzler.dll
+C:\Users\noora\source\newRepos\ImagePuzzler - Copy\ImagePuzzler\bin\Debug\net8.0-windows\ImagePuzzler.exe
+C:\Users\noora\source\newRepos\ImagePuzzler - Copy\ImagePuzzler\bin\Debug\net8.0-windows\ImagePuzzler.deps.json
+C:\Users\noora\source\newRepos\ImagePuzzler - Copy\ImagePuzzler\bin\Debug\net8.0-windows\ImagePuzzler.runtimeconfig.json
+C:\Users\noora\source\newRepos\ImagePuzzler - Copy\ImagePuzzler\bin\Debug\net8.0-windows\ImagePuzzler.dll
+C:\Users\noora\source\newRepos\ImagePuzzler - Copy\ImagePuzzler\bin\Debug\net8.0-windows\ImagePuzzler.pdb
+C:\Users\noora\source\newRepos\ImagePuzzler - Copy\ImagePuzzler\bin\Debug\net8.0-windows\Microsoft.Win32.SystemEvents.dll
+C:\Users\noora\source\newRepos\ImagePuzzler - Copy\ImagePuzzler\bin\Debug\net8.0-windows\System.Drawing.Common.dll
+C:\Users\noora\source\newRepos\ImagePuzzler - Copy\ImagePuzzler\bin\Debug\net8.0-windows\runtimes\win\lib\net8.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\noora\source\newRepos\ImagePuzzler - Copy\ImagePuzzler\bin\Debug\net8.0-windows\ImagePuzzlerLibrary.dll
+C:\Users\noora\source\newRepos\ImagePuzzler - Copy\ImagePuzzler\bin\Debug\net8.0-windows\ImagePuzzlerLibrary.pdb
+C:\Users\noora\source\newRepos\ImagePuzzler - Copy\ImagePuzzler\obj\Debug\net8.0-windows\ImagePuzzler.csproj.AssemblyReference.cache
+C:\Users\noora\source\newRepos\ImagePuzzler - Copy\ImagePuzzler\obj\Debug\net8.0-windows\ImagePuzzler.Form1.resources
+C:\Users\noora\source\newRepos\ImagePuzzler - Copy\ImagePuzzler\obj\Debug\net8.0-windows\ImagePuzzler.csproj.GenerateResource.cache
+C:\Users\noora\source\newRepos\ImagePuzzler - Copy\ImagePuzzler\obj\Debug\net8.0-windows\ImagePuzzler.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\noora\source\newRepos\ImagePuzzler - Copy\ImagePuzzler\obj\Debug\net8.0-windows\ImagePuzzler.AssemblyInfoInputs.cache
+C:\Users\noora\source\newRepos\ImagePuzzler - Copy\ImagePuzzler\obj\Debug\net8.0-windows\ImagePuzzler.AssemblyInfo.cs
+C:\Users\noora\source\newRepos\ImagePuzzler - Copy\ImagePuzzler\obj\Debug\net8.0-windows\ImagePuzzler.csproj.CoreCompileInputs.cache
+C:\Users\noora\source\newRepos\ImagePuzzler - Copy\ImagePuzzler\obj\Debug\net8.0-windows\ImagePuz.F21D38A1.Up2Date
+C:\Users\noora\source\newRepos\ImagePuzzler - Copy\ImagePuzzler\obj\Debug\net8.0-windows\ImagePuzzler.dll
+C:\Users\noora\source\newRepos\ImagePuzzler - Copy\ImagePuzzler\obj\Debug\net8.0-windows\refint\ImagePuzzler.dll
+C:\Users\noora\source\newRepos\ImagePuzzler - Copy\ImagePuzzler\obj\Debug\net8.0-windows\ImagePuzzler.pdb
+C:\Users\noora\source\newRepos\ImagePuzzler - Copy\ImagePuzzler\obj\Debug\net8.0-windows\ImagePuzzler.genruntimeconfig.cache
+C:\Users\noora\source\newRepos\ImagePuzzler - Copy\ImagePuzzler\obj\Debug\net8.0-windows\ref\ImagePuzzler.dll
+C:\Users\noora\source\newRepos\ImagePuzzler\ImagePuzzler\bin\Debug\net8.0-windows\Microsoft.Win32.SystemEvents.dll
+C:\Users\noora\source\newRepos\ImagePuzzler\ImagePuzzler\bin\Debug\net8.0-windows\System.Drawing.Common.dll
+C:\Users\noora\source\newRepos\ImagePuzzler\ImagePuzzler\bin\Debug\net8.0-windows\runtimes\win\lib\net8.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\noora\source\newRepos\ImagePuzzler\ImagePuzzler\obj\Debug\net8.0-windows\ImagePuzzler.Main.resources
+C:\Users\noora\source\newRepos\ImagePuzzler\ImagePuzzler\obj\Debug\net8.0-windows\ImagePuzzler.sourcelink.json
+C:\Users\noora\source\newRepos\ImagePuzzler\Tests\ImagePuzzler\bin\Debug\net8.0-windows\ImagePuzzler.exe
+C:\Users\noora\source\newRepos\ImagePuzzler\Tests\ImagePuzzler\bin\Debug\net8.0-windows\ImagePuzzler.deps.json
+C:\Users\noora\source\newRepos\ImagePuzzler\Tests\ImagePuzzler\bin\Debug\net8.0-windows\ImagePuzzler.runtimeconfig.json
+C:\Users\noora\source\newRepos\ImagePuzzler\Tests\ImagePuzzler\bin\Debug\net8.0-windows\ImagePuzzler.dll
+C:\Users\noora\source\newRepos\ImagePuzzler\Tests\ImagePuzzler\bin\Debug\net8.0-windows\ImagePuzzler.pdb
+C:\Users\noora\source\newRepos\ImagePuzzler\Tests\ImagePuzzler\bin\Debug\net8.0-windows\Microsoft.Win32.SystemEvents.dll
+C:\Users\noora\source\newRepos\ImagePuzzler\Tests\ImagePuzzler\bin\Debug\net8.0-windows\System.Drawing.Common.dll
+C:\Users\noora\source\newRepos\ImagePuzzler\Tests\ImagePuzzler\bin\Debug\net8.0-windows\runtimes\win\lib\net8.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\noora\source\newRepos\ImagePuzzler\Tests\ImagePuzzler\bin\Debug\net8.0-windows\ImagePuzzlerLibrary.dll
+C:\Users\noora\source\newRepos\ImagePuzzler\Tests\ImagePuzzler\bin\Debug\net8.0-windows\ImagePuzzlerLibrary.pdb
+C:\Users\noora\source\newRepos\ImagePuzzler\Tests\ImagePuzzler\obj\Debug\net8.0-windows\ImagePuzzler.csproj.AssemblyReference.cache
+C:\Users\noora\source\newRepos\ImagePuzzler\Tests\ImagePuzzler\obj\Debug\net8.0-windows\ImagePuzzler.Main.resources
+C:\Users\noora\source\newRepos\ImagePuzzler\Tests\ImagePuzzler\obj\Debug\net8.0-windows\ImagePuzzler.csproj.GenerateResource.cache
+C:\Users\noora\source\newRepos\ImagePuzzler\Tests\ImagePuzzler\obj\Debug\net8.0-windows\ImagePuzzler.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\noora\source\newRepos\ImagePuzzler\Tests\ImagePuzzler\obj\Debug\net8.0-windows\ImagePuzzler.AssemblyInfoInputs.cache
+C:\Users\noora\source\newRepos\ImagePuzzler\Tests\ImagePuzzler\obj\Debug\net8.0-windows\ImagePuzzler.AssemblyInfo.cs
+C:\Users\noora\source\newRepos\ImagePuzzler\Tests\ImagePuzzler\obj\Debug\net8.0-windows\ImagePuzzler.csproj.CoreCompileInputs.cache
+C:\Users\noora\source\newRepos\ImagePuzzler\Tests\ImagePuzzler\obj\Debug\net8.0-windows\ImagePuzzler.sourcelink.json
+C:\Users\noora\source\newRepos\ImagePuzzler\Tests\ImagePuzzler\obj\Debug\net8.0-windows\ImagePuz.F21D38A1.Up2Date
+C:\Users\noora\source\newRepos\ImagePuzzler\Tests\ImagePuzzler\obj\Debug\net8.0-windows\ImagePuzzler.dll
+C:\Users\noora\source\newRepos\ImagePuzzler\Tests\ImagePuzzler\obj\Debug\net8.0-windows\refint\ImagePuzzler.dll
+C:\Users\noora\source\newRepos\ImagePuzzler\Tests\ImagePuzzler\obj\Debug\net8.0-windows\ImagePuzzler.pdb
+C:\Users\noora\source\newRepos\ImagePuzzler\Tests\ImagePuzzler\obj\Debug\net8.0-windows\ImagePuzzler.genruntimeconfig.cache
+C:\Users\noora\source\newRepos\ImagePuzzler\Tests\ImagePuzzler\obj\Debug\net8.0-windows\ref\ImagePuzzler.dll

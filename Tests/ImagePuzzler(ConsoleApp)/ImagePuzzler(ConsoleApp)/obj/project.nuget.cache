@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "J31thmBaOLoiV5yWO+fxNNj9Rr8UJU0q8BGgTrd5sp5UFfVBzWSvSoQ5p+MEK44iTMfTKreLMo+k/IQ9+2oRCQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\noora\\source\\newRepos\\ImagePuzzler\\Tests\\ImagePuzzler(ConsoleApp)\\ImagePuzzler(ConsoleApp)\\ImagePuzzler(ConsoleApp).csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\noora\\.nuget\\packages\\microsoft.win32.systemevents\\8.0.0\\microsoft.win32.systemevents.8.0.0.nupkg.sha512",
+    "C:\\Users\\noora\\.nuget\\packages\\system.drawing.common\\8.0.5\\system.drawing.common.8.0.5.nupkg.sha512"
+  ],
+  "logs": []
+}

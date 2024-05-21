@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\noora\\source\\newRepos\\ImagePuzzler\\Tests\\ImagePuzzler(ConsoleApp)\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{3109CEDE-BB8D-4B28-A553-7B136617E5CF}|ImagePuzzler(ConsoleApp)\\ImagePuzzler(ConsoleApp).csproj|c:\\users\\noora\\source\\newrepos\\imagepuzzler\\tests\\imagepuzzler(consoleapp)\\imagepuzzler(consoleapp)\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3109CEDE-BB8D-4B28-A553-7B136617E5CF}|ImagePuzzler(ConsoleApp)\\ImagePuzzler(ConsoleApp).csproj|solutionrelative:imagepuzzler(consoleapp)\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\noora\\source\\newRepos\\ImagePuzzler\\Tests\\ImagePuzzler(ConsoleApp)\\ImagePuzzler(ConsoleApp)\\Program.cs",
+              "RelativeDocumentMoniker": "ImagePuzzler(ConsoleApp)\\Program.cs",
+              "ToolTip": "C:\\Users\\noora\\source\\newRepos\\ImagePuzzler\\Tests\\ImagePuzzler(ConsoleApp)\\ImagePuzzler(ConsoleApp)\\Program.cs",
+              "RelativeToolTip": "ImagePuzzler(ConsoleApp)\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-21T13:30:34.316Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
