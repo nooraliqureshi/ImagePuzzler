@@ -24,14 +24,17 @@ A demo Windows Forms application is included to demonstrate the functionality of
 ## Screenshots
 
 **Main Window**
+
 ![LoadingImage](https://github.com/nooraliqureshi/ImagePuzzler/assets/169689703/c5724080-2434-47bc-8258-e892b934697d)
 ![preview](https://github.com/nooraliqureshi/ImagePuzzler/assets/169689703/908ef7a8-0a23-4926-b52e-daddba69a061)
 
 **Puzzle Creation**
+
 ![PuzzledImage](https://github.com/nooraliqureshi/ImagePuzzler/assets/169689703/1ac72662-99e4-4f99-94be-d7eef36d8aa8)
 ![PuzzledImagePreview](https://github.com/nooraliqureshi/ImagePuzzler/assets/169689703/359e5de0-bc63-4eef-95dd-0cf8debefc72)
 
 **Puzzle Resolving**
+
 ![WithCorrectPattern](https://github.com/nooraliqureshi/ImagePuzzler/assets/169689703/b4982c1a-8f2e-4b29-b264-dcba0d7ae3a7)
 ![NotMatchingPattern](https://github.com/nooraliqureshi/ImagePuzzler/assets/169689703/2cf537be-ad9b-4e26-91b5-fb8720462fc9)
 
