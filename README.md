@@ -4,7 +4,7 @@
 Image Puzzler is a C# application that allows users to create and solve image puzzles. This project consists of two main parts: a C# library that handles the core functionality and a Windows Forms application that provides a user interface for interacting with the library.
 
 **C# Library: ImagePuzzlerLibrary**
-The ` **ImagePuzzlerLibrary** ` is a C# library designed to create and resolve image puzzles. It provides methods to slice images into pieces and arrange them according to a specified pattern.
+The **` ImagePuzzlerLibrary `** is a C# library designed to create and resolve image puzzles. It provides methods to slice images into pieces and arrange them according to a specified pattern.
 
 
 ## Features
